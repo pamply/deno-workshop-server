@@ -10,6 +10,7 @@ node {
         docker.withRegistry('https://index.docker.io/v1/', 'mpamplona-docker') {
             def app = docker.build("mpamplona/deno-workshop-server:${commit_id}", '.')
             app.push()
+            app.push('latest')
         }
     }
 
