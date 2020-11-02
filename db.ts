@@ -170,59 +170,39 @@ const menus: Menu[] = [
       description: 'Taco con tortilla a elección, salsa roja, martajada, verde sin picante y mexicana con guacamole, frijoles y cebollas guisadas.',
       price: 26,
       imageURL: 'https://images.rappi.com.mx/products/978532747-1598533763088.png?d=128x90&e=webp'
+      },
+      {
+        name: 'Taco # 2',
+        description: 'El mejor taco de la ciudad',
+        price: 26,
+        imageURL: 'https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9108-1.jpg'
+      },
+      {
+        name: 'Taco # 3',
+        description: 'Otro buen taco',
+        price: 26,
+        imageURL: 'https://www.kimscravings.com/wp-content/uploads/2015/09/Mexican-Taco-Meat-4.jpg'
+      }, 
+      {
+        name: 'Taco # 4',
+        description: 'El mejor taco',
+        price: 26,
+        imageURL: 'https://minimalistbaker.com/wp-content/uploads/2019/05/Grilled-Fish-Tacos-SQUARE.jpg'
+      },
+      {
+        name: 'Taco # 5',
+        description: 'Taco delicioso',
+        price: 26,
+        imageURL: 'https://www.cookingclassy.com/wp-content/uploads/2019/04/Slow-Cooker-Barbacoa-Beef-10.jpg'
+      },
+      {
+        name: 'Taco # 6',
+        description: 'Taco delicioso',
+        price: 26,
+        imageURL: 'https://images-gmi-pmc.edge-generalmills.com/287350ad-0c09-4d72-be5b-b7505b2cba80.jpg'
       }
-    ],
-}, {
-  restaurantID: TacoLocoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 2',
-      description: 'El mejor taco de la ciudad',
-      price: 26,
-      imageURL: 'https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9108-1.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoLocoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 3',
-      description: 'Otro buen taco',
-      price: 26,
-      imageURL: 'https://www.kimscravings.com/wp-content/uploads/2015/09/Mexican-Taco-Meat-4.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoLocoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 4',
-      description: 'El mejor taco',
-      price: 26,
-      imageURL: 'https://minimalistbaker.com/wp-content/uploads/2019/05/Grilled-Fish-Tacos-SQUARE.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoLocoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 5',
-      description: 'Taco delicioso',
-      price: 26,
-      imageURL: 'https://www.cookingclassy.com/wp-content/uploads/2019/04/Slow-Cooker-Barbacoa-Beef-10.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoLocoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 6',
-      description: 'Taco delicioso',
-      price: 26,
-      imageURL: 'https://images-gmi-pmc.edge-generalmills.com/287350ad-0c09-4d72-be5b-b7505b2cba80.jpg'
-    }
-  ]
-},
+    ]
+}, 
 {
   restaurantID: TacoBuenoRestaurant.id,
   products: [
@@ -231,59 +211,39 @@ const menus: Menu[] = [
       description: 'Taco con tortilla a elección, salsa roja, martajada, verde sin picante y mexicana con guacamole, frijoles y cebollas guisadas.',
       price: 26,
       imageURL: 'https://images.rappi.com.mx/products/978532747-1598533763088.png?d=128x90&e=webp'
+      },
+      {
+        name: 'Taco # 2',
+        description: 'El mejor taco de la ciudad',
+        price: 26,
+        imageURL: 'https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9108-1.jpg'
+      },
+      {
+        name: 'Taco # 3',
+        description: 'Otro buen taco',
+        price: 26,
+        imageURL: 'https://www.kimscravings.com/wp-content/uploads/2015/09/Mexican-Taco-Meat-4.jpg'
+      }, 
+      {
+        name: 'Taco # 4',
+        description: 'El mejor taco',
+        price: 26,
+        imageURL: 'https://minimalistbaker.com/wp-content/uploads/2019/05/Grilled-Fish-Tacos-SQUARE.jpg'
+      },
+      {
+        name: 'Taco # 5',
+        description: 'Taco delicioso',
+        price: 26,
+        imageURL: 'https://www.cookingclassy.com/wp-content/uploads/2019/04/Slow-Cooker-Barbacoa-Beef-10.jpg'
+      },
+      {
+        name: 'Taco # 6',
+        description: 'Taco delicioso',
+        price: 26,
+        imageURL: 'https://images-gmi-pmc.edge-generalmills.com/287350ad-0c09-4d72-be5b-b7505b2cba80.jpg'
       }
-    ],
-}, {
-  restaurantID: TacoBuenoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 2',
-      description: 'El mejor taco de la ciudad',
-      price: 26,
-      imageURL: 'https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9108-1.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoBuenoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 3',
-      description: 'Otro buen taco',
-      price: 26,
-      imageURL: 'https://www.kimscravings.com/wp-content/uploads/2015/09/Mexican-Taco-Meat-4.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoBuenoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 4',
-      description: 'El mejor taco',
-      price: 26,
-      imageURL: 'https://minimalistbaker.com/wp-content/uploads/2019/05/Grilled-Fish-Tacos-SQUARE.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoBuenoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 5',
-      description: 'Taco delicioso',
-      price: 26,
-      imageURL: 'https://www.cookingclassy.com/wp-content/uploads/2019/04/Slow-Cooker-Barbacoa-Beef-10.jpg'
-    }
-  ]
-}, {
-  restaurantID: TacoBuenoRestaurant.id,
-  products: [
-    {
-      name: 'Taco # 6',
-      description: 'Taco delicioso',
-      price: 26,
-      imageURL: 'https://images-gmi-pmc.edge-generalmills.com/287350ad-0c09-4d72-be5b-b7505b2cba80.jpg'
-    }
-  ]
-}
+    ]
+}, 
 ]
 
 interface Product {
@@ -295,7 +255,7 @@ interface Product {
 
 interface Menu {
   restaurantID: string
-  products: [Product]
+  products: Product[]
 }
 
 export const menu = (restaurantId: string) => {
