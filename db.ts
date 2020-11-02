@@ -132,7 +132,7 @@ const TacoLocoRestaurant = {
   id: 'taco-loco',
   name: 'Tacho loco',
   description: 'Best tacos ever',
-  imageURL: 'https://lh3.googleusercontent.com/proxy/PDOhtLTrlqyefYfQWB4fPBUkoo9D7iFYvIvOu-Zb309NpixeZM7alwlYiNu82CQ8cKIPpHLNqlIJZLfe1Oiv4_MeXtqTqckZhKK_Tym3-IRuI18IibOmHTiDlAThQavHxM4',
+  imageURL: 'https://assets.stickpng.com/images/58727fe0f3a71010b5e8ef0d.png',
   categories: [
     Category.MEXICAN
   ],
